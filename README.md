@@ -1,0 +1,2 @@
+# PokemonPartay
+Java Scanner
